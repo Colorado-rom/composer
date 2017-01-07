@@ -1,0 +1,16 @@
+{
+    "name": "colorado-rom/composer",
+    "description": "a test demo on china server",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Colorado",
+            "email": "595929049@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
